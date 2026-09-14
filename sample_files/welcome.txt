@@ -1,0 +1,3 @@
+Welcome to the Activity Logger Application!
+This file contains sample text for testing file read operations.
+Logging is enabled for all system activities across DEBUG, INFO, WARNING, ERROR, and CRITICAL.
